@@ -8,7 +8,7 @@ Mcafee.com activate: Enter your 25-digit code
      :align: center 
      :height: 60px
      :alt: mcafee.com/activate
-     :target: https://ww0.us/?aHR0cHM6Ly8xMjMtaHBjb21wcmludGVyc2V0dXAuZ2l0aHViLmlv
+     :target: https://ww0.us/?aHR0cHM6Ly9tY2FmZWUtY29tLWFjdGl2YXRlLTI1LWRpZ2l0LnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 |
