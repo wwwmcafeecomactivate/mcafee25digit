@@ -4,9 +4,9 @@ Mcafee.com activate: Enter your 25-digit code
 |
 
 .. image:: activatemcafeeantivirus.png
-     :width: 1000px    
+     :width: 400px    
      :align: center 
-     :height: 600px
+     :height: 60px
      :alt: mcafee.com/activate
      :target: https://ww0.us/?aHR0cHM6Ly8xMjMtaHBjb21wcmludGVyc2V0dXAuZ2l0aHViLmlv
 
